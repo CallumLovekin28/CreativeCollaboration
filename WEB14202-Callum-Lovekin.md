@@ -16,9 +16,10 @@ Week 4: [Reflect on your participation in this project so far and share your big
 
 Week 5: [Reflect on how you have become a better team worker over the last couple of weeks.]()
 
-Week 6: [What are your strength and weaknesses in relation to completing this project? And how are you going to address them?]() 
+Week 6: [What are your strength and weaknesses in relation to completing this project?]() 
 
-Week 7:
+Week 7: [How are you going to use SEO to extend the reach of your Image Library? Give some examples.]()
+
 Week 8:
 Week 9:
 Week 10:
