@@ -6,7 +6,7 @@
 
 ### Blogs
 
-[Week 1 :](https://medium.com/@c.lovekin/what-is-the-biggest-challenge-with-teamwork-e14f7c4a564e)What is the biggest challenge with teamwork? 
+Week 1 :[What is the biggest challenge with teamwork?](https://medium.com/@c.lovekin/what-is-the-biggest-challenge-with-teamwork-e14f7c4a564e) 
 
 [Week 2:](https://medium.com/@c.lovekin/what-are-some-of-the-current-trends-around-contemporary-branding-80b9b783e6d4) What are some of the current trends around contemporary branding? And why are they trends? 
 
