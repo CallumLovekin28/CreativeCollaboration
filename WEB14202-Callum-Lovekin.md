@@ -10,7 +10,7 @@ Week 1 : [What is the biggest challenge with teamwork?](https://medium.com/@c.lo
 
 Week 2: [What are some of the current trends around contemporary branding? And why are they trends?](https://medium.com/@c.lovekin/what-are-some-of-the-current-trends-around-contemporary-branding-80b9b783e6d4) 
 
-Week 2: [What are some of the techniques to be persuasive when presenting?]() 
+Week 2: [What are some of the techniques to be persuasive when presenting?](https://medium.com/@c.lovekin/what-are-some-of-the-techniques-to-be-persuasive-when-presenting-6a4a55c6e036) 
 
 Week 4: [Reflect on your participation in this project so far and share your biggest learning.]() 
 
