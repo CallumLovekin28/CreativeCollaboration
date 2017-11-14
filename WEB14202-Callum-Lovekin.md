@@ -28,9 +28,15 @@ Week 12:
 ### Imperial Leather ReBrand
 
 [Research Document](https://docs.google.com/document/d/18icSV0MAQReueG1aiROxFjvCVc4Ajwhl8vf9jzG5ORc/edit?usp=sharing)
+
 [Promotional Material](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EZFJxX3lCUmxBaDQ?usp=sharing)
+
 [Logo](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EZ1dCazhkX2RwUDg?usp=sharing)
+
 [Website Mockup](https://drive.google.com/drive/folders/0ByehoklZW7oSTUpKSGRKc2pzT00?usp=sharing)
+
 [Brand Experience](https://drive.google.com/drive/folders/0Bxz8JLU6zi9ELUFoVUJzVmppUm8?usp=sharing)
+
 [Moodboard/Inspiration](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EQVFRUGxoOEIzUUE?usp=sharing)
+
 [New Product Designs](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EQW44NF9jMW9hR00?usp=sharing)
