@@ -6,7 +6,7 @@
 
 ### Blogs
 
-1. What is the biggest challenge with teamwork? 
+[Week 1 :](https://medium.com/@c.lovekin/what-is-the-biggest-challenge-with-teamwork-e14f7c4a564e)What is the biggest challenge with teamwork? 
 2. What are some of the current trends around contemporary branding? And why are they trends? 
 3. What are some of the techniques to be persuasive when presenting? 
 4. Reflect on your participation in this project so far and share your biggest learning. 
