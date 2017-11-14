@@ -7,7 +7,9 @@
 ### Blogs
 
 [Week 1 :](https://medium.com/@c.lovekin/what-is-the-biggest-challenge-with-teamwork-e14f7c4a564e)What is the biggest challenge with teamwork? 
+
 [Week 2:](https://medium.com/@c.lovekin/what-are-some-of-the-current-trends-around-contemporary-branding-80b9b783e6d4) What are some of the current trends around contemporary branding? And why are they trends? 
+
 3. What are some of the techniques to be persuasive when presenting? 
 4. Reflect on your participation in this project so far and share your biggest learning. 
 5. Reflect on how you have become a better team worker over the last couple of weeks. 
