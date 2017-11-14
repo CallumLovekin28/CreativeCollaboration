@@ -14,7 +14,7 @@ Week 2: [What are some of the techniques to be persuasive when presenting?](http
 
 Week 4: [Reflect on your participation in this project so far and share your biggest learning.]() 
 
-Week 5: [Reflect on how you have become a better team worker over the last couple of weeks.]()
+Week 5: [Reflect on how you have become a better team worker over the last couple of weeks.](https://medium.com/@c.lovekin/how-have-i-become-a-better-team-worker-over-the-last-month-3e5ad68d4471)
 
 Week 6: [What are your strength and weaknesses in relation to completing this project?]() 
 
