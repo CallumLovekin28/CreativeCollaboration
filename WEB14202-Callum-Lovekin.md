@@ -9,7 +9,7 @@
 
 ### Introduction
 
-Over the course of these projects i have learned not only alot about design but also myself and what I wish to persue in the next 2 years of the course. The last couple months have been a great taster of things to come over the rest of the course and I have really enjoyed what I have learned.
+Over the course of these projects I have learned not only alot about design but also myself and what I wish to persue in my future career. The last couple months have been a great taster of different elements of design and coding and getting to work with people from a different industry.
 
 ![blogs](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/blogposts.png)
 
@@ -33,6 +33,9 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 
 
 ![rebrand](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/IMPERIALLEATHER.png)
+### Introduction
+
+We were put into teams with a handful of photography students and given the brief "Rebrand Imperial Leather" We chose as a group to change everything about the brand, from the target audience all the way to the packaging of their products. It was an immensely fun project which pushed my skills and my ability top work with others.
 
 - [Research Document](https://docs.google.com/document/d/18icSV0MAQReueG1aiROxFjvCVc4Ajwhl8vf9jzG5ORc/edit?usp=sharing)
 
@@ -51,6 +54,9 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 - [Video Advert](https://drive.google.com/file/d/0Bxz8JLU6zi9EOEI4OWM0bkkxeGs/view?usp=sharing)
 
 ![roots](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/roots.png)
+### Introduction
+
+We kept the same teams as the rebrand project but this time our brief was to "Create an image library that adheres to a niche" We chose to aim our library at publishers and authors and picked nature as our theme. I was in charge of the web design and branding.
 
 - [Website Link](http://roots.raveweb.net/)
 
