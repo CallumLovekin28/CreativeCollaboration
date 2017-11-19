@@ -34,20 +34,20 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 
 ![rebrand](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/IMPERIALLEATHER.png)
 
-[Research Document](https://docs.google.com/document/d/18icSV0MAQReueG1aiROxFjvCVc4Ajwhl8vf9jzG5ORc/edit?usp=sharing)
+- [Research Document](https://docs.google.com/document/d/18icSV0MAQReueG1aiROxFjvCVc4Ajwhl8vf9jzG5ORc/edit?usp=sharing)
 
-[Promotional Material](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EZFJxX3lCUmxBaDQ?usp=sharing)
+- [Promotional Material](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EZFJxX3lCUmxBaDQ?usp=sharing)
 
-[Logo](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EZ1dCazhkX2RwUDg?usp=sharing)
+- [Logo](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EZ1dCazhkX2RwUDg?usp=sharing)
 
-[Website Mockup](https://drive.google.com/drive/folders/0ByehoklZW7oSTUpKSGRKc2pzT00?usp=sharing)
+- [Website Mockup](https://drive.google.com/drive/folders/0ByehoklZW7oSTUpKSGRKc2pzT00?usp=sharing)
 
-[Brand Experience](https://drive.google.com/drive/folders/0Bxz8JLU6zi9ELUFoVUJzVmppUm8?usp=sharing)
+- [Brand Experience](https://drive.google.com/drive/folders/0Bxz8JLU6zi9ELUFoVUJzVmppUm8?usp=sharing)
 
-[Moodboard/Inspiration](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EQVFRUGxoOEIzUUE?usp=sharing)
+- [Moodboard/Inspiration](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EQVFRUGxoOEIzUUE?usp=sharing)
 
-[New Product Designs](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EQW44NF9jMW9hR00?usp=sharing)
+- [New Product Designs](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EQW44NF9jMW9hR00?usp=sharing)
 
-[Video Advert](https://drive.google.com/file/d/0Bxz8JLU6zi9EOEI4OWM0bkkxeGs/view?usp=sharing)
+- [Video Advert](https://drive.google.com/file/d/0Bxz8JLU6zi9EOEI4OWM0bkkxeGs/view?usp=sharing)
 
 ![roots](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/roots.png)
