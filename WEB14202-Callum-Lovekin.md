@@ -66,3 +66,5 @@ We kept the same teams as the rebrand project but this time our brief was to "Cr
 
 - [Website Mockup/Wireframes](https://drive.google.com/drive/folders/18N-438J8mWU9H3IyQ07dTA9ryawExTiW?usp=sharing)
 
+- [Formative Presentation](https://drive.google.com/file/d/1Cys9EHuMUlNbgb3v2M319PpAKaN8OFlJ/view?usp=sharing)
+
