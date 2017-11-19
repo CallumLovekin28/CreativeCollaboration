@@ -3,9 +3,6 @@
  https://github.com/RavensbourneWebMedia/creativecollaboration/tree/2017/sessions/11
 
 
-
-
-
 ### Blogs
 
 Week 1 : [What is the biggest challenge with teamwork?](https://medium.com/@c.lovekin/what-is-the-biggest-challenge-with-teamwork-e14f7c4a564e) 
@@ -14,19 +11,18 @@ Week 2: [What are some of the current trends around contemporary branding? And w
 
 Week 2: [What are some of the techniques to be persuasive when presenting?](https://medium.com/@c.lovekin/what-are-some-of-the-techniques-to-be-persuasive-when-presenting-6a4a55c6e036) 
 
-Week 4: [Reflect on your participation in this project so far and share your biggest learning.]() 
+Week 4: [Reflect on your participation in this project so far and share your biggest learning.](https://medium.com/@c.lovekin/reflection-on-my-participation-in-this-project-so-far-75027c03b39e) 
 
 Week 5: [Reflect on how you have become a better team worker over the last couple of weeks.](https://medium.com/@c.lovekin/how-have-i-become-a-better-team-worker-over-the-last-month-3e5ad68d4471)
 
-Week 6: [What are your strength and weaknesses in relation to completing this project?]() 
+Week 6: [What are your strength and weaknesses in relation to completing this project?](https://medium.com/@c.lovekin/what-are-my-strength-and-weaknesses-in-relation-to-completing-this-project-722fb28d17a3) 
 
 Week 7: [How are you going to use SEO to extend the reach of your Image Library? Give some examples.]()
 
-Week 8:
-Week 9:
-Week 10:
-Week 11:
-Week 12:
+Week 8:[Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them.]()
+
+Week 9:[Reflect on your blog in week 6 and write about how your approach has changed since then.]()
+
 
 ### Imperial Leather ReBrand
 
