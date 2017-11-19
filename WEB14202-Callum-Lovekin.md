@@ -1,8 +1,5 @@
 # Creative Collaboration 
 
- https://github.com/RavensbourneWebMedia/creativecollaboration/tree/2017/sessions/11
-
-
 ### Blogs
 
 Week 1 : [What is the biggest challenge with teamwork?](https://medium.com/@c.lovekin/what-is-the-biggest-challenge-with-teamwork-e14f7c4a564e) 
