@@ -11,7 +11,7 @@
 
 Over the course of these projects i have learned not only alot about design but also myself and what I wish to persue in the next 2 years of the course. The last couple months have been a great taster of things to come over the rest of the course and I have really enjoyed what I have learned.
 
-### Blogs
+![blogs](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/blogposts.png)
 
 Week 1 : [What is the biggest challenge with teamwork?](https://medium.com/@c.lovekin/what-is-the-biggest-challenge-with-teamwork-e14f7c4a564e) 
 
