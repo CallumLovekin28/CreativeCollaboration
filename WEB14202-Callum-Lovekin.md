@@ -33,7 +33,7 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 
 
 ![rebrand](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/IMPERIALLEATHER.png)
-### Introduction
+### Change By Design
 
 We were put into teams with a handful of photography students and given the brief "Rebrand Imperial Leather" We chose as a group to change everything about the brand, from the target audience all the way to the packaging of their products. It was an immensely fun project which pushed my skills and my ability top work with others.
 
@@ -54,7 +54,7 @@ We were put into teams with a handful of photography students and given the brie
 - [Video Advert](https://drive.google.com/file/d/0Bxz8JLU6zi9EOEI4OWM0bkkxeGs/view?usp=sharing)
 
 ![roots](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/roots.png)
-### Introduction
+### Image Capture Library
 
 We kept the same teams as the rebrand project but this time our brief was to "Create an image library that adheres to a niche" We chose to aim our library at publishers and authors and picked nature as our theme. I was in charge of the web design and branding.
 
