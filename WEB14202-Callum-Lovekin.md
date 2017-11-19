@@ -39,3 +39,5 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 [Moodboard/Inspiration](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EQVFRUGxoOEIzUUE?usp=sharing)
 
 [New Product Designs](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EQW44NF9jMW9hR00?usp=sharing)
+
+[Video Advert](https://drive.google.com/file/d/0Bxz8JLU6zi9EOEI4OWM0bkkxeGs/view?usp=sharing)
