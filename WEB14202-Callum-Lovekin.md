@@ -25,7 +25,7 @@ Week 5: [Reflect on how you have become a better team worker over the last coupl
 
 Week 6: [What are your strength and weaknesses in relation to completing this project?](https://medium.com/@c.lovekin/what-are-my-strength-and-weaknesses-in-relation-to-completing-this-project-722fb28d17a3) 
 
-Week 7: [How are you going to use SEO to extend the reach of your Image Library? Give some examples.]()
+Week 7: [How are you going to use SEO to extend the reach of your Image Library? Give some examples.](https://medium.com/@c.lovekin/how-am-i-going-to-use-seo-to-extend-the-reach-of-my-image-library-8cbe1c91d3cc)
 
 Week 8:[Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them.]()
 
