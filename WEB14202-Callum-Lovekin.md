@@ -1,4 +1,4 @@
-![title](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/Title.jpg)
+![title](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/title.png)
 ## Info
 
 **Name:** Callum Lovekin
