@@ -32,7 +32,7 @@ Week 8:[Explore good examples of good social media marketing. Analyse at least t
 Week 9:[Reflect on your blog in week 6 and write about how your approach has changed since then.]()
 
 
-### Imperial Leather ReBrand
+![rebrand](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/IMPERIALLEATHER.png)
 
 [Research Document](https://docs.google.com/document/d/18icSV0MAQReueG1aiROxFjvCVc4Ajwhl8vf9jzG5ORc/edit?usp=sharing)
 
@@ -49,3 +49,5 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 [New Product Designs](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EQW44NF9jMW9hR00?usp=sharing)
 
 [Video Advert](https://drive.google.com/file/d/0Bxz8JLU6zi9EOEI4OWM0bkkxeGs/view?usp=sharing)
+
+![roots](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/roots.png)
