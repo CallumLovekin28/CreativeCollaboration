@@ -1,4 +1,4 @@
-![alt text](Images/title.jpg "Title")
+![title](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/Title.jpg)
 # Creative Collaboration 
 
 ## Info
