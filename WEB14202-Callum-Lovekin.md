@@ -53,6 +53,10 @@ We were put into teams with a handful of photography students and given the brie
 
 - [Video Advert](https://drive.google.com/file/d/0Bxz8JLU6zi9EOEI4OWM0bkkxeGs/view?usp=sharing)
 
+- [Summative Presentation](https://docs.google.com/document/d/18icSV0MAQReueG1aiROxFjvCVc4Ajwhl8vf9jzG5ORc/edit?usp=sharing)
+
+- [Formative Presentation](https://docs.google.com/document/d/18icSV0MAQReueG1aiROxFjvCVc4Ajwhl8vf9jzG5ORc/edit?usp=sharing)
+
 ![roots](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/roots.png)
 ### Image Capture Library
 
