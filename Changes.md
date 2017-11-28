@@ -44,7 +44,7 @@ We wanted to change the sizing of the Logo's on the website so everything looked
 ~~~~
 
 ## Search Toggle - CSS
-We reviewed the site after the changes we made and realised there was 2 options to search on the fron page and we didnt need them. Instead of removing it entirely we used CSS to hide it so if we wanted to use it at a later date we could.
+We reviewed the site after the changes we made and realised there were 2 options to search on the front page and we didn't need them. Instead of removing it entirely we used CSS to hide it so if we wanted to use it at a later date we could.
 
 ~~~~
 #search_toggle{
@@ -58,6 +58,6 @@ We saw the original nav bar and knew we wanted to change it so we could use it a
 
 ## Final Layouts vs Old Layouts
 ![beforeandafter](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/beforeandafter.jpg)
-From the above image you can see the durastic changes we made from the intial web design to the final one. When we had the old design we liked it but after gathering feedback we looked at the site in a different light and made it more modern.
+From the above image, you can see the drastic changes we made from the initial web design to the final one. When we had the old design we liked it but after gathering feedback we looked at the site in a different light and made it more modern.
 
-As you have seen we have changed the nav bar and colours to make the site seem more sleek and not like something out of the 1990's. The image pages themselves now have the pricing depending on the license you want and all completed with tags which you can use to filter images of similiar kind. 
+As you have seen we have changed the nav bar and colours to make the site seem sleeker and not like something out of the 1990's. The image pages themselves now have the pricing depending on the license you want and all completed with tags which you can use to filter images of similar kind. 
