@@ -9,7 +9,9 @@
 
 ### Introduction
 
-Over the course of these projects I have learned not only alot about design but also myself and what I wish to persue in my future career. The last couple months have been a great taster of different elements of design and coding and getting to work with people from a different industry.
+Over the course of these projects I have learned not only alot about design but also myself and what I wish to persue in my future career. The last couple months have been a great taster of different elements of design and coding and getting to work with people from a different industry. 
+
+Over the two projects I was working in a group of photography students and 2 web students, we collaborated together to created both a rebrand of a company and an image library. These were both very hands on projects which I enjoyed and put my strengths into.
 
 ![blogs](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/blogposts.png)
 
@@ -37,6 +39,8 @@ Week 9:[Reflect on your blog in week 6 and write about how your approach has cha
 
 We were put into teams with a handful of photography students and given the brief "Rebrand Imperial Leather" We chose as a group to change everything about the brand, from the target audience all the way to the packaging of their products. It was an immensely fun project which pushed my skills and my ability top work with others.
 
+We researched and looked into other soap brands and how they advertise themselves to identify a gap in the market, we found a gap and started straight away on producing content for the project.
+
 - [Research Document](https://docs.google.com/document/d/18icSV0MAQReueG1aiROxFjvCVc4Ajwhl8vf9jzG5ORc/edit?usp=sharing)
 
 - [Promotional Material](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EZFJxX3lCUmxBaDQ?usp=sharing)
@@ -62,6 +66,8 @@ We were put into teams with a handful of photography students and given the brie
 ### Image Capture Library
 
 We kept the same teams as the rebrand project but this time our brief was to "Create an image library that adheres to a niche" We chose to aim our library at publishers and authors and picked nature as our theme. I was in charge of the web design and branding.
+
+We looked at competitors to see if we could somehow appeal to a niche audience, we chose book publishers and authours as our audience. We designed the site with a simple UI in mind so our audience could filter out what images they wanted to see rather than them having to go through loads.
 
 - [Website Link](http://roots.raveweb.net/)
 
