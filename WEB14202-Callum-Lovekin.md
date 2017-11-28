@@ -65,7 +65,7 @@ We kept the same teams as the rebrand project but this time our brief was to "Cr
 
 - [Website Link](http://roots.raveweb.net/)
 
-- [Website Changes]()
+- [Website Changes](https://github.com/CallumLovekin28/CreativeCollaboration/blob/master/Changes.md)
 
 - [Image Folder](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EQmlHM2ZIbmlENjA?usp=sharing)
 
