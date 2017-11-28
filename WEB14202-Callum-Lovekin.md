@@ -65,6 +65,8 @@ We kept the same teams as the rebrand project but this time our brief was to "Cr
 
 - [Website Link](http://roots.raveweb.net/)
 
+- [Website Changes]()
+
 - [Image Folder](https://drive.google.com/drive/folders/0Bxz8JLU6zi9EQmlHM2ZIbmlENjA?usp=sharing)
 
 - [Logo](https://drive.google.com/drive/folders/1q5s7AWWxui0Q2vkPKckU5Xz1cEPASgNM?usp=sharing)
@@ -72,4 +74,6 @@ We kept the same teams as the rebrand project but this time our brief was to "Cr
 - [Website Mockup/Wireframes](https://drive.google.com/drive/folders/18N-438J8mWU9H3IyQ07dTA9ryawExTiW?usp=sharing)
 
 - [Formative Presentation](https://drive.google.com/file/d/1Cys9EHuMUlNbgb3v2M319PpAKaN8OFlJ/view?usp=sharing)
+
+- [Summative Presentation]()
 
