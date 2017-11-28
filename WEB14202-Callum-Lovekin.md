@@ -29,7 +29,7 @@ Week 7: [How are you going to use SEO to extend the reach of your Image Library?
 
 Week 8:[Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them.](https://medium.com/@c.lovekin/explore-good-examples-of-good-social-media-marketing-769a6f4d24df)
 
-Week 9:[Reflect on your blog in week 6 and write about how your approach has changed since then.]()
+Week 9:[Reflect on your blog in week 6 and write about how your approach has changed since then.](https://medium.com/@c.lovekin/reflect-on-your-blog-in-week-6-and-write-about-how-your-approach-has-changed-since-then-dee76ef6058)
 
 
 ![rebrand](https://raw.githubusercontent.com/CallumLovekin28/CreativeCollaboration/master/Images/IMPERIALLEATHER.png)
