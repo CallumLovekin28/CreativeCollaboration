@@ -27,7 +27,7 @@ Week 6: [What are your strength and weaknesses in relation to completing this pr
 
 Week 7: [How are you going to use SEO to extend the reach of your Image Library? Give some examples.](https://medium.com/@c.lovekin/how-am-i-going-to-use-seo-to-extend-the-reach-of-my-image-library-8cbe1c91d3cc)
 
-Week 8:[Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them.]()
+Week 8:[Explore good examples of good social media marketing. Analyse at least three pieces of work and then blog about them.](https://medium.com/@c.lovekin/explore-good-examples-of-good-social-media-marketing-769a6f4d24df)
 
 Week 9:[Reflect on your blog in week 6 and write about how your approach has changed since then.]()
 
