@@ -81,5 +81,5 @@ We looked at competitors to see if we could somehow appeal to a niche audience, 
 
 - [Formative Presentation](https://drive.google.com/file/d/1Cys9EHuMUlNbgb3v2M319PpAKaN8OFlJ/view?usp=sharing)
 
-- [Summative Presentation]()
+- [Summative Presentation](https://drive.google.com/file/d/1qRWmpzPtx3XgWMgrILRYa8BxcUrqgRaq/view?usp=sharing)
 
